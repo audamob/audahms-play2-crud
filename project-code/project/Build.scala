@@ -5,8 +5,8 @@ import PlayKeys._
 
 object ApplicationBuild extends Build {
 
-    val appName         = "play2-crud"
-    val appVersion      = "0.7.4-SNAPSHOT"
+    val appName         = "audahums-play2-crud"
+    val appVersion      = "0.1-SNAPSHOT"
     val appScalaVersion = "2.11.1"
 
     val appDependencies = Seq(
